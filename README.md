@@ -6,14 +6,14 @@ Input:
 
 A file named dict including all the words that we can translate to. Each line contains one word.
 
-Phone numbers that needs to be translated. Input following the message given by the programme.
+Phone numbers that need to be translated. Please enter one phone number each time following the message given by the programme.
 
 Output:
 
-A double dimensional array constains all the translations.
+A double dimensional array containing all the translations.
 
 ## Files:
-Solution.java: contains main method, read input and give output
+Solution.java: main method, read input and give output
 
 Translate.java: read dictionary and translate words
 
