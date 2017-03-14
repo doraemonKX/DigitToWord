@@ -13,7 +13,7 @@ Output:
 A double dimensional array constains all the translations.
 
 ## Files:
-Solutions.java: contains main method, read input and give output
+Solution.java: contains main method, read input and give output
 
 Translate.java: read dictionary and translate words
 
